@@ -1,0 +1,81 @@
+* {
+	font-size: 20px;
+	font-family: "josefin slab", sans-serif;
+	color: black;
+}
+
+.toprow {
+	margin-top: 15px;
+}
+
+#main_image {
+	margin: 15px auto;
+	height: 400px;
+}
+
+#met_image {
+	margin: 15px auto;
+	height: 400px;
+}
+
+.shadow-right {
+	box-shadow: 10px 10px 25px #888888;
+}
+
+.shadow-left {
+	box-shadow: -10px 10px 25px #888888;
+}
+
+h1 {
+	font-family: "Dancing Script", sans-serif;
+	font-size: 60px;
+	margin: 0;
+}
+
+h2 {
+	font-family: "Dancing Script", sans-serif;
+	font-size: 45px;
+	margin 0;
+	text-align: center;
+}
+
+h6 {
+	text-align: center;
+}
+
+.toprow a {
+
+	font-size: 30px;
+	margin: 0 10px;
+	color: black;
+	text-decoration: none;
+
+}
+
+.toprow a:hover {
+	text-decoration: none;
+	color: black;
+
+}
+
+.toprow a:focus {
+	text-decoration: none;
+	color: black;
+
+}
+
+.toprow a:active {
+	color: black;
+	text-decoration: none;
+
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+ul {
+	list-style-type: none;
+}
