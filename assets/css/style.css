@@ -100,3 +100,20 @@ footer {
 	position: relative;
 	bottom: 0;	
 }
+
+.goFundMe {
+	text-decoration: none;
+	color: black;
+}
+.goFundMe :hover {
+	text-decoration: none;
+	color: black;
+}
+.goFundMe :focus {
+	text-decoration: none;
+	color: black;
+}
+.goFundMe :active {
+	text-decoration: none;
+	color: black;
+}
